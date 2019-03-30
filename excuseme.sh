@@ -227,7 +227,7 @@ checkfound
 }
 
 start() {
-default_port1=$(seq 1111 4444 | sort -R | head -n1)
+default_port1="$RANDOM" #$(seq 1111 4444 | sort -R | head -n1)
 default_payload_name="excuseme"
 default_url="http://www.lolcats.com"
 printf '\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m] Web Page name (Default:\e[0m\e[1;77m %s \e[0m\e[1;33m): \e[0m' $default_payload_name
