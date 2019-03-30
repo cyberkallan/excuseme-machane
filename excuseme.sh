@@ -1,5 +1,5 @@
 #!/bin/bash
-# phURIous v1.0
+# excuseme v1.0
 # coded by: @linux_choice
 # github.com/thelinuxchoice/excuseme
 # If you use any part from this code, giving me the credits. Read the Lincense!
