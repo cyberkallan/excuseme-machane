@@ -1,7 +1,8 @@
 #!/bin/bash
-# excuseme v1.0
-# coded by: @linux_choice
-# github.com/thelinuxchoice/excuseme
+# excuseme-machane v1.0
+# coded by: cyber kallan
+# github.com/cyberkallan/excuseme-machane
+# YouTube : CYBER KALLAN
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
 trap 'printf "\n";stop' 2
