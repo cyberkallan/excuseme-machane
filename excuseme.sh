@@ -21,8 +21,8 @@ printf "\e[1;93m  _____ ____ _  _ ___ ___   _ __  ___\e[0m  /       \       \\  
 printf "\e[1;93m / -_) \ / _| || (_-</ -_) | '  \/ -_)\e[0m \       /       || |  // /\` \n"
 printf "\e[1;93m \___/_\_\__|\_,_/__/\___| |_|_|_\___|\e[0m  \_   _/        ((_| ((_/ \n"
 printf "                                          ) ) \n"
-printf " \e[1;77mv1.0 coded by @linux_choice             ( ( \n"
-printf " \e[1;77mgithub.com/thelinuxchoice/excuseme\e[0m       )_) \n"
+printf " \e[1;77mv1.0 coded by Cyber kallan             ( ( \n"
+printf " \e[1;77mgithub.com/cyberkallan/excuseme-machane\e[0m       )_) \n"
 
 printf "\n"
 
